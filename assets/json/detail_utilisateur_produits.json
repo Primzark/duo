@@ -1,0 +1,19 @@
+[
+{"type":"header","version":"5.2.2","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"vgames"},
+{"type":"table","name":"avis","database":"vgames","data":
+[
+{"a_id":"12","a_note":"5","a_texte":"Un chef-d'œuvre ! Exploration et liberté incroyables. Jeu inoubliable","a_date":"2023-03-15","u_id":"1","p_id":"1"},
+{"a_id":"13","a_note":"4","a_texte":"Difficile mais captivant. Univers riche et combats épiques.","a_date":"2023-06-22","u_id":"2","p_id":"1"},
+{"a_id":"14","a_note":"3","a_texte":"Multijoueur amusant, mais campagne décevante. Graphismes superbes.","a_date":"2023-01-10","u_id":"3","p_id":"3"},
+{"a_id":"15","a_note":"4","a_texte":"Relaxant et créatif. Parfait pour se détendre après une longue journée.","a_date":"2023-04-30","u_id":"3","p_id":"4"},
+{"a_id":"16","a_note":"5","a_texte":"Histoire touchante et gameplay fluide. Un must pour les fans de Spider-Man.","a_date":"2023-05-12","u_id":"2","p_id":"5"},
+{"a_id":"17","a_note":"4","a_texte":"Courses exaltantes et paysages magnifiques. Très divertissant.","a_date":"2023-07-08","u_id":"1","p_id":"6"},
+{"a_id":"18","a_note":"5","a_texte":"Inventif et plein de surprises. Mario au sommet de sa forme.","a_date":"2023-02-28","u_id":"2","p_id":"7"},
+{"a_id":"19","a_note":"4","a_texte":"Épique et émouvant. Combats intenses et scénario prenant.","a_date":"2023-11-05","u_id":"3","p_id":"1"},
+{"a_id":"20","a_note":"3","a_texte":"Gameplay amélioré, mais toujours des bugs. Bon pour les fans de foot.","a_date":"2023-09-20","u_id":"3","p_id":"9"},
+{"a_id":"21","a_note":"4","a_texte":"Ambiance sombre et gameplay nerveux. Un vrai Metroid !","a_date":"2023-08-14","u_id":"2","p_id":"10"},
+{"a_id":"22","a_note":"4","a_texte":"Monde ouvert magnifique et histoire captivante. Quelques longueurs.","a_date":"2023-10-03","u_id":"1","p_id":"1"}
+]
+}
+]

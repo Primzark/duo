@@ -1,0 +1,11 @@
+[
+{"type":"header","version":"5.2.2","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"vgames"},
+{"type":"table","name":"utilisateurs","database":"vgames","data":
+[
+{"u_id":"1","u_mail":"personne1@example.com","u_telephone":"123456789","u_mpd":"mdp123","u_adresse":"123 Rue de la Paix, Paris","u_img":"photouser1.webp"},
+{"u_id":"2","u_mail":"personne2@example.com","u_telephone":"987654321","u_mpd":"mdp456","u_adresse":"456 Avenue des Champs, Lyon","u_img":"photouser2.webp"},
+{"u_id":"3","u_mail":"personne3@example.com","u_telephone":"147258369","u_mpd":"mdp789","u_adresse":"789 Boulevard Saint-Germain, Marseille","u_img":"photouser3.webp"}
+]
+}
+]

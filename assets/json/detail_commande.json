@@ -1,0 +1,10 @@
+[
+{"type":"header","version":"5.2.2","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"vgames"},
+{"type":"table","name":"commande_has_produits","database":"vgames","data":
+[
+{"p_id":"1","c_id":"1","nombre_produit_commande":"4"},
+{"p_id":"1","c_id":"2","nombre_produit_commande":"3"}
+]
+}
+]

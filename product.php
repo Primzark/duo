@@ -88,7 +88,7 @@
                 <div class="col-md-3">
                     <h5>Contactez-nous</h5>
                     <ul>
-                        <li><a href="#" class="text-dark text-decoration-none">Email: support@gametrycom</a></li>
+                        <li><a href="#" class="text-dark text-decoration-none">Email: support@gametry.com</a></li>
                         <li><a href="#" class="text-dark text-decoration-none">Téléphone: 07 33 77 99 99</a></li>
                     </ul>
                 </div>

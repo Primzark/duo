@@ -47,7 +47,7 @@
         <div class="row">
 
             <div class="col-6">
-                <img src="images/animal_crossing_new_horizons.webp" class="img-fluid rounded"
+                <img src="" class="img-fluid rounded"
                     alt="Animal Crossing: New Horizons">
             </div>
 

@@ -47,7 +47,7 @@
         <div class="row">
 
             <div class="col-6">
-                <img src="" class="img-fluid rounded"
+                <img src="assets/img/jeux/animal_crossing_new_horizons.webp" class="img-fluid rounded"
                     alt="Animal Crossing: New Horizons">
             </div>
 
@@ -79,7 +79,7 @@
                 </div>
                 <div class="col-md-2">
                     <h5>Liens Rapides</h5>
-                    <ul class="">
+                    <ul>
                         <li><a href="index.php" class="text-dark">Accueil</a></li>
                         <li><a href="order.php" class="text-dark">Panier</a></li>
                         <li><a href="user.php" class="text-dark">Utilisateur</a></li>

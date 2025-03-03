@@ -47,12 +47,16 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-6">
-                    <img src="./animal_crossing_new_horizons.webp" class="img-fluid rounded" alt="Animal Crossing: New Horizons">
+                    <img src="assets/img/jeux/animal_crossing_new_horizons.webp" class="img-fluid rounded" alt="Animal Crossing: New Horizons">
                 </div>
                 <div class="col-md-6">
                     <h1 class="display-4">Animal Crossing: New Horizons</h1>
                     <p class="fw-bold">Relaxant et créatif. Parfait pour se détendre après une longue journée.</p>
-                    <button class="btn btn-primary btn-lg">En savoir plus</button>
+                    <a href="product.php"
+
+                    
+                    
+                    class="btn btn-primary btn-lg">En savoir plus</a>
                 </div>
             </div>
         </div>
@@ -65,7 +69,7 @@
 
             <div class="col-md-4 mb-4">
                 <div class="card bg-light text-dark">
-                    <img src="" class="card-img-top" alt="Animal Crossing: New Horizons">
+                    <img src="assets/img/jeux/animal_crossing_new_horizons.webp" class="card-img-top" alt="Animal Crossing: New Horizons">
                     <div class="card-body">
                         <h5 class="card-title">Animal Crossing: New Horizons</h5>
                         <p class="card-text">Relaxant et créatif. Parfait pour se détendre après une longue journée.</p>
@@ -86,7 +90,7 @@
                                     aria-label="Close"></button>
                             </div>
                             <div class="modal-body">
-                                <img src="" class="img-fluid rounded mb-3" alt="Animal Crossing: New Horizons">
+                                <img src="assets/img/jeux/animal_crossing_new_horizons.webp" class="img-fluid rounded mb-3" alt="Animal Crossing: New Horizons">
                                 <p>Nom: Animal Crossing: New Horizons</p>
                                 <p>Note: 4.5/5</p>
                                 <p>Date de la note: 2025-01-15</p>
@@ -102,7 +106,7 @@
 
             <div class="col-md-4 mb-4">
                 <div class="card bg-light text-dark">
-                    <img src="" class="card-img-top" alt="Elden Ring">
+                    <img src="assets/img/jeux/elden_ring.webp" class="card-img-top" alt="Elden Ring">
                     <div class="card-body">
                         <h5 class="card-title">Elden Ring</h5>
                         <p class="card-text">Un RPG d'action dans un vaste monde dangereux.</p>
@@ -123,7 +127,7 @@
                                     aria-label="Close"></button>
                             </div>
                             <div class="modal-body">
-                                <img src="" class="img-fluid rounded mb-3" alt="Elden Ring">
+                                <img src="assets/img/jeux/elden_ring.webp" class="img-fluid rounded mb-3" alt="Elden Ring">
                                 <p><span class="fw-2">Nom:</span> Elden Ring</p>
                                 <p><span class="fw-2">Note:</span> 4.8/5</p>
                                 <p><span class="fw-2">Date de la note:</span> 2025-02-10</p>
@@ -139,7 +143,7 @@
 
             <div class="col-md-4 mb-4">
                 <div class="card bg-light text-dark">
-                    <img src="" class="card-img-top" alt="Horizon Forbidden West">
+                    <img src="assets/img/jeux/horizon_forbidden_west.webp" class="card-img-top" alt="Horizon Forbidden West">
                     <div class="card-body">
                         <h5 class="card-title">Horizon Forbidden West</h5>
                         <p class="card-text">Un jeu d'action-aventure dans un monde post-apocalyptique.</p>
@@ -160,7 +164,7 @@
                                     aria-label="Close"></button>
                             </div>
                             <div class="modal-body">
-                                <img src="" class="img-fluid rounded mb-3" alt="Horizon Forbidden West">
+                                <img src="assets/img/jeux/horizon_forbidden_west.webp" class="img-fluid rounded mb-3" alt="Horizon Forbidden West">
                                 <p><span class="fw-2">Nom:</span> Horizon Forbidden West</p>
                                 <p><span class="fw-2">Note:</span> 4.7/5</p>
                                 <p><span class="fw-2">Date de la note:</span> 2025-01-20</p>

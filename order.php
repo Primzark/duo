@@ -21,7 +21,7 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <div class="row w-100">
                     <div class="col text-center">
-                        <a class="nav-link text-dark" href="first.php">
+                        <a class="nav-link text-dark" href="index.php">
                             <i class="bi bi-house"></i> Accueil
                         </a>
                     </div>
@@ -48,7 +48,7 @@
                         <h5 class="card-title">Commande #12345</h5>
                         <p class="card-text">Jeu: Animal Crossing: New Horizons</p>
                         <p class="card-text">Prix: 59,99 €</p>
-                        <p class="card-text">Date d'achat: 15 mars 2023</p>
+                        <p class="card-text">Date d'achat: 15 mars 2025</p>
                     </div>
                 </div>
             </div>
@@ -58,7 +58,7 @@
                         <h5 class="card-title">Commande #12346</h5>
                         <p class="card-text">Jeu: Elden Ring</p>
                         <p class="card-text">Prix: 69,99 €</p>
-                        <p class="card-text">Date d'achat: 20 mars 2023</p>
+                        <p class="card-text">Date d'achat: 20 mars 2025</p>
                     </div>
                 </div>
             </div>
@@ -68,7 +68,7 @@
                         <h5 class="card-title">Commande #12347</h5>
                         <p class="card-text">Jeu: Horizon Forbidden West</p>
                         <p class="card-text">Prix: 59,99 €</p>
-                        <p class="card-text">Date d'achat: 25 mars 2023</p>
+                        <p class="card-text">Date d'achat: 25 mars 2025</p>
                     </div>
                 </div>
             </div>
@@ -83,7 +83,7 @@
                 <div class="col-md-2">
                     <h5>Liens Rapides</h5>
                     <ul class="">
-                        <li><a href="first.php" class="text-dark">Accueil</a></li>
+                        <li><a href="index.php" class="text-dark">Accueil</a></li>
                         <li><a href="order.php" class="text-dark">Panier</a></li>
                         <li><a href="user.php" class="text-dark">Utilisateur</a></li>
                     </ul>

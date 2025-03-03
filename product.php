@@ -23,7 +23,7 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <div class="row w-100">
                     <div class="col text-center">
-                        <a class="nav-link text-dark" href="first.php">
+                        <a class="nav-link text-dark" href="index.php">
                             <i class="bi bi-house"></i> Accueil
                         </a>
                     </div>
@@ -80,7 +80,7 @@
                 <div class="col-md-2">
                     <h5>Liens Rapides</h5>
                     <ul class="">
-                        <li><a href="first.php" class="text-dark">Accueil</a></li>
+                        <li><a href="index.php" class="text-dark">Accueil</a></li>
                         <li><a href="order.php" class="text-dark">Panier</a></li>
                         <li><a href="user.php" class="text-dark">Utilisateur</a></li>
                     </ul>

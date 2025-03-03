@@ -21,7 +21,7 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <div class="row w-100">
                     <div class="col text-center">
-                        <a class="nav-link text-dark" href="first.php">
+                        <a class="nav-link text-dark" href="index.php">
                             <i class="bi bi-house"></i> Accueil
                         </a>
                     </div>
@@ -47,15 +47,15 @@
                 <form>
                     <div class="mb-3">
                         <label for="name" class="form-label">Nom:</label>
-                        <input type="text" class="form-control" id="name" value="Jean Dupont">
+                        <input type="text" class="form-control" id="name" value="Nico ...">
                     </div>
                     <div class="mb-3">
                         <label for="email" class="form-label">Email:</label>
-                        <input type="email" class="form-control" id="email" value="jean.dupont@example.com">
+                        <input type="email" class="form-control" id="email" value="Nico...@example.com">
                     </div>
                     <div class="mb-3">
                         <label for="phone" class="form-label">Téléphone:</label>
-                        <input type="tel" class="form-control" id="phone" value="+33 6 12 34 56 78">
+                        <input type="tel" class="form-control" id="phone" value="+33 ...">
                     </div>
                     <button type="submit" class="btn btn-primary">Mettre à jour</button>
                 </form>
@@ -72,7 +72,7 @@
                 <div class="col-md-2">
                     <h5>Liens Rapides</h5>
                     <ul class="">
-                        <li><a href="first.php" class="text-dark">Accueil</a></li>
+                        <li><a href="index.php" class="text-dark">Accueil</a></li>
                         <li><a href="order.php" class="text-dark">Panier</a></li>
                         <li><a href="user.php" class="text-dark">Utilisateur</a></li>
                     </ul>

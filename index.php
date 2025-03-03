@@ -23,7 +23,7 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <div class="row w-100">
                     <div class="col text-center">
-                        <a class="nav-link text-dark" href="first.php">
+                        <a class="nav-link text-dark" href="index.php">
                             <i class="bi bi-house"></i> Accueil
                         </a>
                     </div>
@@ -47,11 +47,11 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-6">
-                    <img src="" class="img-fluid rounded" alt="Animal Crossing: New Horizons">
+                    <img src="./animal_crossing_new_horizons.webp" class="img-fluid rounded" alt="Animal Crossing: New Horizons">
                 </div>
                 <div class="col-md-6">
                     <h1 class="display-4">Animal Crossing: New Horizons</h1>
-                    <p class="fw-bold">Un jeu de simulation de vie où vous construisez votre île de rêve.</p>
+                    <p class="fw-bold">Relaxant et créatif. Parfait pour se détendre après une longue journée.</p>
                     <button class="btn btn-primary btn-lg">En savoir plus</button>
                 </div>
             </div>
@@ -68,7 +68,7 @@
                     <img src="" class="card-img-top" alt="Animal Crossing: New Horizons">
                     <div class="card-body">
                         <h5 class="card-title">Animal Crossing: New Horizons</h5>
-                        <p class="card-text">Un jeu de simulation de vie où vous construisez votre île de rêve.</p>
+                        <p class="card-text">Relaxant et créatif. Parfait pour se détendre après une longue journée.</p>
                         <button type="button" class="btn btn-primary" data-bs-toggle="modal"
                             data-bs-target="#gameModal1">
                             Détails
@@ -186,7 +186,7 @@
                 <div class="col-md-2">
                     <h5>Liens Rapides</h5>
                     <ul>
-                        <li><a href="first.php" class="text-dark">Accueil</a></li>
+                        <li><a href="index.php" class="text-dark">Accueil</a></li>
                         <li><a href="order.php" class="text-dark">Panier</a></li>
                         <li><a href="user.php" class="text-dark">Utilisateur</a></li>
                     </ul>
